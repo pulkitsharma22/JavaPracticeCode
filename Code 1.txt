@@ -1,0 +1,46 @@
+Code 1:CODE TO PRINT FORMULA GIVEN:
+
+System.out.println(4.0 * (1 - (1.0/3) + (1.0/5) - (1.0/7) + (1.0/9) - (1.0/11)));
+
+Code 2: CODE TO MULTIPLY TWO NUMBERS
+
+    int a, b;
+		System.out.println("Value for a:");
+		a=s.nextInt();
+		System.out.println("value for b:");
+		b=s.nextInt();
+		int c= a*b;
+		System.out.println("Result" + c);
+
+code 3 : CODE TO PERFORM +-/*
+int a, b;
+		System.out.println("Value for a:");
+		a=s.nextInt();
+		System.out.println("value for b:");
+		b=s.nextInt();
+		int c= a*b;
+		System.out.println("Result" + c);*/
+		/*int a,b, result;
+		System.out.println("Enter value of a: ");
+		a=s.nextInt();
+		System.out.println("Enter value of b: ");
+		b=s.nextInt();
+		System.out.println("Addition: "+ add(a,b));
+		System.out.println("Subtraction: " + sub(a,b));
+		System.out.println("Division: " + div(a,b));
+		System.out.println("Multipcation: " + mul(a,b));
+
+Code 4: CODE TO PRINT MULTIPLICATION TABLE
+
+System.out.println("Multiplication Table: ");
+		int n;
+		n=s.nextInt();
+		for(int i=1;i<=10;i++)
+		{
+			int c=n*i;
+			System.out.println(+ n + "*" + i+ "= "+c);
+		} 
+		
+		System.out.println(Math.random());
+
+code 5:  
