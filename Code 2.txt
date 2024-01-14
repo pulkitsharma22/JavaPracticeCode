@@ -1,0 +1,31 @@
+//--------------------------------------------------------------------------------------------
+		// Question 1
+		// area and perimeter of a circle
+		// area= 3.14*r*2
+		// perimeter= 2*3.14*r
+		
+		int r, area, perimeter;
+		Scanner s= new Scanner(System.in);
+		System.out.println("Enter the value of r");
+		r=s.nextInt();
+		area=(int)3.14*r*r*(int)3.14;
+		perimeter=2*(int)3.14*r;
+		System.out.println("Area of circle" + area);
+		System.out.println("Perimeter of circle" + perimeter);
+//--------------------------------------------------------------------------------------------
+
+
+//--------------------------------------------------------------------------------------------
+		// Question 2
+		/*
+		int a,b,c, avg;
+		System.out.println("Enter the values of the given variables:");
+		a=s.nextInt();
+		b=s.nextInt();
+		c=s.nextInt();
+		
+		System.out.println("Average of the given values are :");
+		avg=(a+b+c)/3;
+		System.out.println("Average:" + (double)avg);
+		*/
+//--------------------------------------------------------------------------------------------	
